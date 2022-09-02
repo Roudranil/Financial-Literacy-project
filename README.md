@@ -1,9 +1,10 @@
 # Financial Literacy among 18-35 year olds
 Hi! We are first year M.Sc. Data Science students of Chennai Mathematical Institute, India - Adarsha Mondal, Deepmalya Dutta, Roudranil Das, Shreyan Chakraborty, Ujan Dasgupta and we are conducting a survey for an academic project to judge the state of financial literacy of the general masses among 18-35 year olds from a survey.
 
+Here's an overview on what to expect.
+![Screenshot from 2022-09-02 18-51-05](https://user-images.githubusercontent.com/65423670/188155066-6bca281b-b0ce-4752-808f-0ffc2427732c.png)
+![Screenshot from 2022-09-02 18-51-22](https://user-images.githubusercontent.com/65423670/188155076-68f7206a-8266-40ec-88e0-6f8729dddb19.png)
+![Screenshot from 2022-09-02 18-51-37](https://user-images.githubusercontent.com/65423670/188155081-a1057f73-04ab-4ea5-a7b0-d758376009f6.png)
+![Screenshot from 2022-09-02 18-51-51](https://user-images.githubusercontent.com/65423670/188155085-7c99df01-6b44-4375-996b-191ba5587cec.png)
 
-![download](https://user-images.githubusercontent.com/65423670/188068138-60169ed2-dc50-4524-a862-6f43e40bd9b5.png)
-![download (1)](https://user-images.githubusercontent.com/65423670/188068150-37cdc454-f714-486d-9194-cf9e5bdc20e3.png)
-![download2](https://user-images.githubusercontent.com/65423670/188068145-464c1f12-2ed3-4f46-be1d-78c3b8bd7afc.png)
-![download4](https://user-images.githubusercontent.com/65423670/188068147-6ae4c49a-0e04-443d-ae01-203ed0ef87ec.png)
 
